@@ -1,4 +1,4 @@
-# John Lemon
+# Johnny Lemon
 
 <img src="http://api.adorable.io/avatars/100/zestmaster%40flavor.magazine" height="100" width="100" />
 
